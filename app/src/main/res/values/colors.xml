@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorTitleBackground">#3F51B5</color>
+    <color name="colorPrimary">#9932CC</color>
+    <color name="colorPrimaryDark">#9932CC</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="oslo_grey">#8e9196</color>
+    <color name="white">#FFFFFF</color>
+    <color name="olive">#808000</color>
+    <color name="red">#FF0000</color>
+    <color name="black">#000000</color>
+    <color name="textColorPrimary">#ff757575</color>
+    <color name="textColorHint">#A8A8A8</color>
+    <color name="yellow">#CCCC00</color>
+    <color name="tileOne">#439aca</color>
+    <color name="tileTwo">#e9743f</color>
+    <color name="tileThree">#36c2a6</color>
+    <color name="tileFour">#fede86</color>
+    <color name="tileFive">#ec696d</color>
+    <color name="background">#F1F1F1</color>
+    <color name="black_overlay">#66000000</color>
+
+</resources>
+
+
+
